@@ -4,4 +4,8 @@ sdasd
 123
 ggg  sdf    f   sdf
 
+<<<<<<< HEAD
 Out of date
+=======
+Preved medved
+>>>>>>> 4c6bbceb3163ad4ff722b3005712c6bfe5eca522
